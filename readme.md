@@ -1,4 +1,5 @@
-## LaravelExampleApplication
+-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Laravel Example Application
 
 This is a sample laravel application which gives an idea on how to write services separate from the controller
 

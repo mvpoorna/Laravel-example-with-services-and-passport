@@ -16,3 +16,7 @@ Route::get('/', function () {
 });
 
 Route::post('/contact/submit', 'sendController@submit');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
